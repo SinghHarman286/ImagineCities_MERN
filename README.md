@@ -4,6 +4,8 @@
 
 __ Installing Packages __
 
+You can refer to Package.json file for more information
+
 * Express
 
 This will install Express.js
