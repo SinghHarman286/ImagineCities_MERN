@@ -4,15 +4,13 @@
 
 __ Installing Packages __
 
-You can refer to Package.json file for more information
-
 * Express
 
 This will install Express.js
 ```javascript
 npm install express
 ```
-
+You can refer to Package.json file for more information
 
 * Running the application
 
