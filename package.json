@@ -1,0 +1,14 @@
+{
+  "name": "imaginecities",
+  "version": "1.0.0",
+  "description": "Imagine Cities Website in MERN Stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harman and Curtis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
